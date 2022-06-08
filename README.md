@@ -16,6 +16,15 @@ Because we wanted to make our model generate more domain-specific texts (Texts r
 If you want to train the PEGASUS model, the dataset is provided in the file Dataset. The codes for the creation of the dataset are not provided.
 [+++]
 
-## Contributors:
+## Example results
 
-## notes
+## Contributors:
+Reseacrh and implementation of the AI part made by Deep Belief
+Data extraction from URLs were made from Goxr3plus
+
+
+## Reference
+[1] Zhang, J., Zhao, Y., Saleh, M., & Liu, P. (2020, November). Pegasus: Pre-training with extracted gap-sentences for abstractive summarization. In International Conference on Machine Learning (pp. 11328-11339). PMLR.
+
+[2] Fabbri, A. R., Li, I., She, T., Li, S., & Radev, D. R. (2019). Multi-news: A large-scale multi-document summarization dataset and abstractive hierarchical model. arXiv preprint arXiv:1906.01749.
+[2]
