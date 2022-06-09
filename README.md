@@ -1,6 +1,8 @@
 # Automatic Article Generator
 
-In this project we use AI to automatically compose text related to natural disasters from various news sites as sourse. This project is part of my contribution to the SnapEarth project when I worked for CERTH. The generated text contains information about a natural disaster and can be used as part of an article.
+In this project, we use AI to automatically compose text related to natural disasters from various news sites as a source. In the project, we implement an abstractive multi-document summarization AI tool which means that the AI doesn't simply copy and paste information from the text source to a new text, but it tries to generate a new readable text that discusses the same topic from the source texts. 
+
+This project is part of my contribution to the SnapEarth project when I worked for CERTH. The generated text contains information about a natural disaster and can be used as part of an article. 
 
 ## Project architecture
 ![Project architecture](https://user-images.githubusercontent.com/46052843/172661217-11814181-2332-4ce7-a0ac-e413c01a8016.png)
@@ -23,6 +25,7 @@ If you want to generate text from you can provide a list of URLs from news sites
 The file for the model can be downloaded it from this link: https://drive.google.com/drive/folders/15zwW1V5MMrpBIPutdXZ8mOpiwbXIrw26?usp=sharing.
 
 ## Example results
+![Example 1](https://user-images.githubusercontent.com/46052843/172873387-8679f3ec-db60-4266-9c8f-c3ee8ca2a30d.png)
 
 
 ## Reference
