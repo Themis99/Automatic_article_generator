@@ -1,4 +1,4 @@
-# Automatic_article_generator
+# Automatic Article Generator
 
 In this project we use AI to automatically compose text related to natural disasters from various news sites as sourse. This project is part of my contribution to the SnapEarth project when I worked for CERTH. The generated text contains information about a natural disaster and can be used as part of an article.
 
