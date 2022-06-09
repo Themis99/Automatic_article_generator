@@ -24,8 +24,9 @@ If you want to generate text from you can provide a list of URLs from news sites
 
 The file for the model can be downloaded it from this link: https://drive.google.com/drive/folders/15zwW1V5MMrpBIPutdXZ8mOpiwbXIrw26?usp=sharing.
 
-## Example results
-![Example 1](https://user-images.githubusercontent.com/46052843/172873387-8679f3ec-db60-4266-9c8f-c3ee8ca2a30d.png)
+## Examples
+![Example 1](https://user-images.githubusercontent.com/46052843/172877761-d3a64a45-02a2-413e-a166-af4a4f508ceb.png)
+![Result2](https://user-images.githubusercontent.com/46052843/172877798-fdd7f400-3029-4eff-937f-c509236e5825.png)
 
 
 ## Reference
