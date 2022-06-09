@@ -5,7 +5,7 @@ In this project, we use AI to automatically compose text related to natural disa
 This project is part of my contribution to the SnapEarth project when I worked for CERTH. The generated text contains information about a natural disaster and can be used as part of an article. 
 
 ## Project architecture
-![Project architecture](https://user-images.githubusercontent.com/46052843/172661217-11814181-2332-4ce7-a0ac-e413c01a8016.png)
+![Project architecture](https://user-images.githubusercontent.com/46052843/172875536-1c532935-45db-411d-9e8e-746abf6c46c7.png)
 As shown in the architecture image, the user will be able to provide a list of URLs that can correspond to articles. Then the text from these URLs is extracted and fed into the next module where the text composition is made. In this module the concatenation of the texts is made and then the concatenated text is used as input to the model were a new text is generated.
 
 ## Research 
