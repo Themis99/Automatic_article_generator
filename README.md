@@ -13,22 +13,18 @@ More specifically the task of this project is Multi-document summarization where
 Because we wanted to make our model generate more domain-specific texts (Texts related to natural disasters news) we created a new dataset that includes texts from various news sites and their corresponding summaries. The process of creation of this dataset is similar to the process of creation of the Multi-news dataset [2]. Then we used the PEGASUS model, pretrained on the Multi-news dataset to train in our dataset.  
 
 ## How to execute the codes
-If you want to train the PEGASUS model, you can execute the train_pegasus_disaster.py. The dataset to train the model is provided in the Dataset folder.
-The Dataset is already splited in train and test set. Before train the model you can change a number of hyperparameters like the number of epochs, the batch size, 
-the output lengh of the generated text etc
+If you want to train the PEGASUS model, you can execute the train_pegasus_disaster.py. The dataset to train and test the model is provided in the Dataset folder.
+The Dataset is already split into train and test sets. Before training the model you can change several hyperparameters like the number of epochs, the batch size, 
+the output length of the generated text etc
 
-If you want to generate text from the you can provide a list of URLs from news sites related to specific event like fire/flood/volcano etc. The agruements that should be provided are the path for the model and the max lengh of the generated text. Feel free to play with diffent max lenghs. 
+If you want to generate text from you can provide a list of URLs from news sites related to a specific event like fire/flood/volcano etc. The arguements that should be provided are the path for the model and the max length of the generated text. Feel free to play with different max lengths.
 
-The file of the model is very big and you can find it in this link: https://drive.google.com/drive/folders/15zwW1V5MMrpBIPutdXZ8mOpiwbXIrw26?usp=sharing
-
-I number of decoding parameters can also be changed from the user.
+The file for the model can be downloaded it from this link: https://drive.google.com/drive/folders/15zwW1V5MMrpBIPutdXZ8mOpiwbXIrw26?usp=sharing.
 
 ## Example results
 
 ## Contributors:
 Reseacrh and implementation of the AI part made by Deep Belief
-
-
 
 ## Reference
 [1] Zhang, J., Zhao, Y., Saleh, M., & Liu, P. (2020, November). Pegasus: Pre-training with extracted gap-sentences for abstractive summarization. In International Conference on Machine Learning (pp. 11328-11339). PMLR.
